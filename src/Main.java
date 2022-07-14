@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
         int account = 100; // начальный счет
-        int add = 1000; // сумма пополнения
+        int add = 1100; // сумма пополнения
         int bonus = add / 100; // бонус за каждые полные 100 рублей пополнения
 
         System.out.println("Итоговая сумма на счету:");
